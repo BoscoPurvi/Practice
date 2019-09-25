@@ -1,0 +1,26 @@
+To push a file in github
+cd 
+git init
+git add.
+git status
+git commit -m "   "
+git config --global user.email "purvimsk@gmail.com"
+git config --global user.name "BoscoPurvi"
+git remote add origin master link
+git push -u origin master
+
+To pull a file from github
+cd
+git clone link
+
+To create a branch and push the file onto github
+
+
+
+
+git commit -m "first commit"
+git remote add origin https://github.com/BoscoPurvi/Practice.git
+git push -u origin master
+
+git remote add origin https://github.com/BoscoPurvi/Practice.git
+git push -u origin master
